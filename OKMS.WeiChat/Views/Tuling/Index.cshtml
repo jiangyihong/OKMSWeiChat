@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    <ul id="chatList">
+    </ul>
+    <input type="text" value="" name="message" id="messageContent"/>
+    <input type="button" value="聊天" id="btnChat"/>
+</div>
+@section scripts
+{
+    <script type="text/javascript">
+        $("#btnChat").on("click", function () {
+            var content = $("#messageContent").val();
+            $("#chatList").append($("<li>我：" + content + "</li>"));
+            $.ajax({
+                url: "@Url.Action("Chat","Tuling")",
+                data: { "content": content },
+                dataType: "json",
+                type: "post",
+                success: function (data) {
+                    $("#chatList").append($("<li>机器人:" + data.Text + "</li>"));
+                    $("#messageContent").val('');
+                }
+            });
+        });
+</script>
+}

@@ -1,0 +1,13 @@
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Common\bin\Debug\OKMS.WeiChat.Common.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Common\bin\Debug\OKMS.WeiChat.Common.pdb
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Common\obj\Debug\OKMS.WeiChat.Common.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Common\obj\Debug\OKMS.WeiChat.Common.pdb
+E:\文档\Visual Studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Common\bin\Debug\OKMS.WeiChat.Common.dll.config
+E:\文档\Visual Studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Common\bin\Debug\Newtonsoft.Json.dll
+E:\文档\Visual Studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Common\bin\Debug\System.Net.Http.Extensions.dll
+E:\文档\Visual Studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Common\bin\Debug\System.Net.Http.Primitives.dll
+E:\文档\Visual Studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Common\bin\Debug\Newtonsoft.Json.xml
+E:\文档\Visual Studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Common\bin\Debug\System.Net.Http.Extensions.xml
+E:\文档\Visual Studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Common\bin\Debug\System.Net.Http.Primitives.xml
+E:\文档\Visual Studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Common\obj\Debug\OKMS.WeiChat.Common.csproj.App.config
+E:\文档\Visual Studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Common\obj\Debug\OKMS.WeiChat.Common.csprojResolveAssemblyReference.cache

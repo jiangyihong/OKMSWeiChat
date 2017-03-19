@@ -1,0 +1,17 @@
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\bin\Debug\OKMS.WeiChat.Service.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\bin\Debug\OKMS.WeiChat.Service.pdb
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\bin\Debug\OKMS.WeiChat.Common.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\bin\Debug\OKMS.WeiChat.IReopsitory.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\bin\Debug\OKMS.WeiChat.IService.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\bin\Debug\OKMS.WeiChat.Model.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\bin\Debug\OKMS.WeiChat.Common.pdb
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\bin\Debug\OKMS.WeiChat.IReopsitory.pdb
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\bin\Debug\OKMS.WeiChat.IService.pdb
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\bin\Debug\OKMS.WeiChat.Model.pdb
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\obj\Debug\OKMS.WeiChat.Service.csprojResolveAssemblyReference.cache
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\obj\Debug\OKMS.WeiChat.Service.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\obj\Debug\OKMS.WeiChat.Service.pdb
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\bin\Debug\EntityFramework.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\bin\Debug\EntityFramework.xml
+E:\文档\Visual Studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\bin\Debug\Newtonsoft.Json.dll
+E:\文档\Visual Studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Service\bin\Debug\Newtonsoft.Json.xml

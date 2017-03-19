@@ -1,0 +1,14 @@
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Model\bin\Debug\OKMS.WeiChat.Model.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Model\bin\Debug\OKMS.WeiChat.Model.pdb
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Model\obj\Debug\OKMS.WeiChat.Model.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Model\obj\Debug\OKMS.WeiChat.Model.pdb
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Model\bin\Debug\OKMS.WeiChat.Model.dll.config
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Model\bin\Debug\EntityFramework.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Model\bin\Debug\EntityFramework.SqlServer.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Model\bin\Debug\MySql.Data.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Model\bin\Debug\MySql.Data.Entity.EF6.dll
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Model\bin\Debug\EntityFramework.xml
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\文档\Visual Studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Model\bin\Debug\Newtonsoft.Json.dll
+E:\文档\Visual Studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Model\bin\Debug\Newtonsoft.Json.xml
+e:\文档\visual studio 2013\Projects\OKMS.WeiChat\OKMS.WeiChat.Model\obj\Debug\OKMS.WeiChat.Model.csprojResolveAssemblyReference.cache
